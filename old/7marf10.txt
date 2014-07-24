@@ -1,0 +1,2611 @@
+The Project Gutenberg EBook of Le Mariage Force, by Moliere [Jean-Baptiste Poquelin]
+#6 in our series by Moliere [Jean-Baptiste Poquelin]
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Le Mariage Force
+
+Author: Moliere [Jean-Baptiste Poquelin]
+
+Release Date: February, 2004  [EBook #5178]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on May 29, 2002]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK, LE MARIAGE FORCE ***
+
+
+This eBook was produced by Laurent Le Guillou <leguillou.laurent@free.fr>.
+
+
+Title: Le Mariage Force
+
+Language: French
+
+Encoding: ISO-8859-1
+
+
+
+Source:
+
+Jean-Baptiste Poquelin (1620-1673), alias Moliere,
+"Oeuvres de Moliere, avec des notes de tous les commentateurs",
+Tome Premier,
+Paris, Librarie de Firmin-Didot et Cie,
+Imprimeurs de l'Institut, rue Jacob, 56,
+1890.
+
+Pages 419-448.
+
+[Spelling of the 1890 edition. Footnotes have been retained because
+they provide the meanings of old French words or expressions.
+Footnote are indicated by numbers in brackets, and are grouped
+at the end of the Etext. Text encoding is iso-8859-1.]
+
+
+
+
+
+LE MARIAGE FORCE
+
+
+
+
+Comedie en un acte (1664)
+
+
+
+PERSONNAGES                             ACTEURS
+
+Sganarelle.                             Moliere.
+Geronimo.                               La Thorilliere.
+Dorimene, jeune coquette,               
+promise a Sganarelle.                   Mlle Du Parc.
+Alcantor, pere de Dorimene.             Bejart.
+Alcidas, frere de Dorimene.             La Grange.
+Lycaste, amant de Dorimene.
+Pancrace, docteur aristotelicien.       Brecourt.
+Marphurius, docteur pyrrhonien.         Du Croisy.
+Deux egyptiennes.                       Mlle Bejart, Mlle de Brie.
+
+
+
+La scene est dans une place publique.
+
+
+Scene premiere. - Sganarelle.
+
+
+- Sganarelle -
+
+          (parlant a ceux qui sont dans sa maison.)
+
+Je suis de retour dans un moment. Que l'on ait bien soin du logis, et
+que tout aille comme il faut. Si l'on m'apporte de l'argent, que l'on
+vienne me querir vite chez le seigneur Geronimo ; et si l'on vient
+m'en demander, qu'on dise que je suis sorti, et que je ne dois revenir
+de toute la journee.
+
+
+-----------
+
+Scene II. - Sganarelle, Geronimo.
+
+
+- Geronimo -
+
+          (ayant entendu les dernieres paroles de Sganarelle.)
+
+Voila un ordre fort prudent.
+
+- Sganarelle -
+
+Ah ! seigneur Geronimo, je vous trouve a propos ; et j'allais chez
+vous vous chercher.
+
+- Geronimo -
+
+Et pour quel sujet, s'il vous plait ?
+
+- Sganarelle -
+
+Pour vous communiquer une affaire que j'ai en tete, et vous prier de
+m'en dire votre avis.
+
+- Geronimo -
+
+Tres volontiers. Je suis bien aise de cette rencontre, et nous pouvons
+parler ici en toute liberte.
+
+- Sganarelle -
+
+Mettez-donc dessus (1), s'il vous plait. Il s'agit d'une chose de
+consequence, que l'on m'a proposee ; et il est bon de ne rien faire
+sans le conseil de ses amis.
+
+- Geronimo -
+
+Je vous suis oblige de m'avoir choisi pour cela. Vous n'avez qu'a me
+dire ce que c'est.
+
+- Sganarelle -
+
+Mais, auparavant, je vous conjure de ne me point flatter du tout, et
+de me dire nettement votre pensee.
+
+- Geronimo -
+
+Je le ferai, puisque vous le voulez.
+
+- Sganarelle -
+
+Je ne vois rien de plus condamnable qu'un ami qui ne nous parle pas
+franchement.
+
+- Geronimo -
+
+Vous avez raison.
+
+- Sganarelle -
+
+Et, dans ce siecle, on trouve peu d'amis sinceres.
+
+- Geronimo -
+
+Cela est vrai.
+
+- Sganarelle -
+
+Promettez-moi donc, seigneur Geronimo, de me parler avec toute sorte
+de franchise.
+
+- Geronimo -
+
+Je vous le promets.
+
+- Sganarelle -
+
+Jurez-en votre foi.
+
+- Geronimo -
+
+Oui, foi d'ami. Dites-moi seulement votre affaire.
+
+- Sganarelle -
+
+C'est que je veux savoir de vous si je ferai bien de me marier.
+
+- Geronimo -
+
+Qui, vous ?
+
+- Sganarelle -
+
+Oui, moi-meme, en propre personne. Quel est votre avis la-dessus ?
+
+- Geronimo -
+
+Je vous prie auparavant de me dire une chose.
+
+- Sganarelle -
+
+Et quoi ?
+
+- Geronimo -
+
+Quel age pouvez-vous bien avoir maintenant ?
+
+- Sganarelle -
+
+Moi ?
+
+- Geronimo -
+
+Oui.
+
+- Sganarelle -
+
+Ma foi, je ne sais ; mais je me porte bien.
+
+- Geronimo -
+
+Quoi ! vous ne savez pas a peu pres votre age ?
+
+- Sganarelle -
+
+Non : est-ce qu'on songe a cela ?
+
+- Geronimo -
+
+Eh ! dites-moi un peu, s'il vous plait : combien aviez-vous d'annees
+lorsque nous fimes connaissance ?
+
+- Sganarelle -
+
+Ma foi, je n'avais que vingt ans alors.
+
+- Geronimo -
+
+Combien fumes-nous ensemble a Rome ?
+
+- Sganarelle -
+
+Huit ans.
+
+- Geronimo -
+
+Quel temps avez-vous demeure en Angleterre ?
+
+- Sganarelle -
+
+Sept ans.
+
+- Geronimo -
+
+Et en Hollande, ou vous futes ensuite ?
+
+- Sganarelle -
+
+Cinq ans et demi.
+
+- Geronimo -
+
+Combien y a-t-il que vous etes revenu ici ?
+
+- Sganarelle -
+
+Je revins en cinquante-six.
+
+- Geronimo -
+
+De cinquante-six a soixante-huit, il y a douze ans, ce me semble.
+Cinq en Hollande font dix-sept, sept ans en Angleterre font
+vingt-quatre, huit dans notre sejour a Rome font trente-deux, et vingt
+que vous aviez lorsque nous nous connumes, cela fait justement
+cinquante-deux. Si bien, seigneur Sganarelle, que, sur votre propre
+confession, vous etes environ a votre cinquante-deuxieme ou
+cinquante-troisieme annee.
+
+- Sganarelle -
+
+Qui, moi ? cela ne se peut pas.
+
+- Geronimo -
+
+Mon Dieu ! le calcul est juste ; et la-dessus je vous dirai
+franchement, et en ami, comme vous m'avez fait promettre de vous
+parler, que le mariage n'est guere votre fait. C'est une chose a
+laquelle il faut que les jeunes gens pensent bien murement avant que
+de la faire ; mais les gens de votre age n'y doivent point penser du
+tout ; et si l'on dit que la plus grande de toutes les folies est
+celle de se marier, je ne vois rien de plus mal a propos que de la
+faire, cette folie, dans la saison ou nous devons etre plus
+sages. Enfin, je vous dis nettement ma pensee. Je ne vous conseille
+point de songer au mariage ; et je vous trouverais le plus ridicule du
+monde, si, ayant ete libre jusqu'a cette heure, vous alliez vous
+charger maintenant de la plus pesante des chaines.
+
+- Sganarelle -
+
+Et moi, je vous dis que je suis resolu de me marier, et que je ne
+serai point ridicule en epousant la fille que je recherche.
+
+- Geronimo -
+
+Ah ! c'est une autre chose. Vous ne m'aviez pas dit cela.
+
+- Sganarelle -
+
+C'est une fille qui me plait, et que j'aime de tout mon coeur.
+
+- Geronimo -
+
+Vous l'aimez de tout votre coeur ?
+
+- Sganarelle -
+
+Sans doute ; et je l'ai demandee a son pere.
+
+- Geronimo -
+
+Vous l'avez demandee ?
+
+- Sganarelle -
+
+Oui. C'est un mariage qui doit se conclure ce soir ; et j'ai donne ma
+parole.
+
+- Geronimo -
+
+Oh ! mariez-vous donc. Je ne dis plus un mot.
+
+- Sganarelle -
+
+Je quitterais le dessein que j'ai fait ! Vous semble-t-il, seigneur
+Geronimo, que je ne sois plus propre a songer a une femme ? Ne parlons
+point de l'age que je puis avoir ; mais regardons seulement les
+choses. Y a-t-il homme de trente ans qui paraisse plus frais et plus
+vigoureux que vous me voyez ? N'ai-je pas tous les mouvements de mon
+corps aussi bons que jamais ; et voit-on que j'ai besoin de carosse ou
+de chaise pour cheminer ? N'ai-je pas encore toutes mes dents les
+meilleures du monde ?
+
+        (Il montre ses dents.)
+
+Ne fais-je pas vigoureusement mes quatre repas par jour, et peut-on
+voir un estomac qui ait plus de force que le mien ?
+
+        (Il tousse.)
+
+Hem, hem, hem. Eh ! qu'en dites-vous ?
+
+- Geronimo -
+
+Vous avez raison, je m'etais trompe. Vous ferez bien de vous marier.
+
+- Sganarelle -
+
+J'y ai repugne autrefois ; mais j'ai maintenant de puissantes raisons
+pour cela. Outre la joie que j'aurai de posseder une belle femme, qui
+me fera mille caresses, qui me dorlotera, et me viendra frotter
+lorsque je serai las ; outre cette joie, dis-je, je considere qu'en
+demeurant comme je suis, je laisse perir dans le monde la race des
+Sganarelles ; et qu'en me mariant, je pourrai me voir revivre en
+d'autres moi-meme ; que j'aurai le plaisir de voir des creatures qui
+seront sorties de moi, de petites figures qui me ressembleront comme
+deux gouttes d'eau, qui se joueront continuellement dans la maison,
+qui m'appelleront leur papa quand je reviendrai de la ville, et me
+diront de petites folies les plus agreables du monde. Tenez, il me
+semble deja que j'y suis, et que j'en vois une demi-douzaine autour de
+moi.
+
+- Geronimo -
+
+Il n'y a rien de plus agreable que cela ; et je vous conseille de vous
+marier le plus vite que vous pourrez.
+
+- Sganarelle -
+
+Tout de bon, vous me le conseillez ?
+
+- Geronimo -
+
+Assurement. Vous ne sauriez mieux faire.
+
+- Sganarelle -
+
+Vraiment, je suis ravi que vous me donniez ce conseil en veritable
+ami.
+
+- Geronimo -
+
+Eh ! quelle est la personne, s'il vous plait, avec qui vous allez vous
+marier ?
+
+- Sganarelle -
+
+Dorimene.
+
+- Geronimo -
+
+Cette jeune Dorimene, si galante et si bien paree ?
+
+- Sganarelle -
+
+Oui.
+
+- Geronimo -
+
+Fille du seigneur Alcantor ?
+
+- Sganarelle -
+
+Justement.
+
+- Geronimo -
+
+Et soeur d'un certain Alcidas, qui se mele de porter l'epee ?
+
+- Sganarelle -
+
+C'est cela.
+
+- Geronimo -
+
+Vertu de ma vie !
+
+- Sganarelle -
+
+Qu'en dites-vous ?
+
+- Geronimo -
+
+Bon parti ! Mariez-vous promptement.
+
+- Sganarelle -
+
+N'ai-je pas raison d'avoir fait ce choix ?
+
+- Geronimo -
+
+Sans doute. Ah ! que vous serez bien marie ! Depechez-vous de l'etre.
+
+- Sganarelle -
+
+Vous me comblez de joie de me dire cela. Je vous remercie de votre
+conseil, et je vous invite ce soir a mes noces.
+
+- Geronimo -
+
+Je n'y manquerai pas ; et je veux y aller en masque, afin de les mieux
+honorer.
+
+- Sganarelle -
+
+Serviteur.
+
+- Geronimo -
+
+        (a part.)
+
+La jeune Dorimene, fille du seigneur Alcantor, avec le seigneur
+Sganarelle, qui n'a que cinquante-trois ans ! O le beau mariage ! o le
+beau mariage !
+
+        (Ce qu'il repete plusieurs fois en s'en allant.)
+
+
+-----------
+
+Scene III. - Sganarelle.
+
+
+- Sganarelle -
+
+Ce mariage doit etre heureux, car il donne de la joie a tout le monde,
+et je fais rire tous ceux a qui j'en parle. Me voila maintenant le
+plus content des hommes.
+
+
+-----------
+
+Scene IV. - Dorimene, Sganarelle.
+
+
+- Dorimene -
+
+        (dans le fond du theatre, a un petit laquais qui la suit.)
+
+Allons, petit garcon, qu'on tienne bien ma queue, et qu'on ne s'amuse
+pas a badiner.
+
+- Sganarelle -
+
+        (a part, apercevant Dorimene.)
+
+Voici ma maitresse qui vient. Ah ! qu'elle est agreable ! Quel air, et
+quelle taille ! Peut-il y avoir un homme qui n'ait, en la voyant, des
+demangeaisons de se marier ?
+
+        (a Dorimene.)
+
+Ou allez-vous, belle mignone, chere epouse future de votre epoux futur ?
+
+- Dorimene -
+
+Je vais faire quelques emplettes.
+
+- Sganarelle -
+
+Eh bien ! ma belle, c'est maintenant que nous allons etre heureux l'un
+et l'autre. Vous ne serez plus en droit de me rien refuser ; et je
+pourrai faire avec vous tout ce qu'il me plaira, sans que personne
+s'en scandalise. Vous allez etre a moi depuis la tete jusqu'aux pieds,
+et je serai maitre de tout : de vos petits yeux eveilles, de votre
+petit nez fripon, de vos levres appetissantes, de vos oreilles
+amoureuses, de votre petit menton joli, de vos petits tetons
+rondelets, de votre...  Enfin, toute votre personne sera a ma
+discretion, et je serai a meme de vous caresser comme je voudrai.
+N'etes-vous pas bien aise de ce mariage, mon aimable pouponne ?
+
+- Dorimene -
+
+Tout a fait aise, je vous jure. Car enfin la severite de mon pere m'a
+tenue jusques ici dans une sujetion la plus facheuse du monde. Il y a
+je ne sais combien que j'enrage du peu de liberte qu'il me donne, et
+j'ai cent fois souhaite qu'il me mariat, pour sortir promptement de la
+contrainte ou j'etais avec lui, et me voir en etat de faire ce que je
+voudrai. Dieu merci, vous etes venu heureusement pour cela, et je me
+prepare desormais a me donner du divertissement, et a reparer comme il
+faut le temps que j'ai perdu. Comme vous etes un fort galant homme, et
+que vous savez comme il faut vivre, je crois que nous ferons le
+meilleur menage du monde ensemble, et que vous ne serez point de ces
+maris incommodes qui veulent que leurs femmes vivent comme des
+loups-garous. Je vous avoue que je ne m'accommoderais pas de cela, et
+que la solitude me desespere. J'aime le jeu, les visites, les
+assemblees, les cadeaux (2), et les promenades ; en un mot, toutes les
+choses de plaisir : et vous devez etre ravi d'avoir une femme de mon
+humeur. Nous n'aurons jamais aucun demele ensemble, et je ne vous
+contraindrai point dans vos actions, comme j'espere que, de votre
+cote, vous ne me contraindrez point dans les miennes ; car, pour moi,
+je tiens qu'il faut une complaisance mutuelle, et qu'on ne se doit
+point marier pour se faire enrager l'un l'autre. Enfin, nous vivrons,
+etant maries, comme deux personnes qui savent leur monde : aucun
+soupcon jaloux ne nous troublera la cervelle ; et c'est assez que vous
+serez assure de ma fidelite, comme je serai assure de la votre. Mais
+qu'avez-vous ? je vous vois tout change de visage.
+
+- Sganarelle -
+
+Ce sont quelques vapeurs qui me viennent de monter a la tete.
+
+- Dorimene -
+
+C'est un mal aujourd'hui qui attaque beaucoup de gens, mais notre
+mariage vous dissipera tout cela. Adieu. Il me tarde deja que je n'aie
+des habits raisonnables, pour quitter vite ces guenilles. Je m'en vais
+de ce pas achever d'acheter toutes les choses qu'il me faut, et je
+vous enverrai les marchands.
+
+
+-----------
+
+Scene V. - Geronimo, Sganarelle.
+
+
+- Geronimo -
+
+Ah ! seigneur Sganarelle, je suis ravi de vous trouver encore ici ; et
+j'ai rencontre un orfevre qui, sur le bruit que vous cherchiez quelque
+beau diamant en bague pour faire un present a votre epouse, m'a fort
+prie de venir vous parler pour lui, et de vous dire qu'il en a un a
+vendre, le plus parfait du monde.
+
+- Sganarelle -
+
+Mon Dieu ! cela n'est pas presse.
+
+- Geronimo -
+
+Comment, que veut dire cela ? Ou est l'ardeur que vous montriez tout a
+l'heure ?
+
+- Sganarelle -
+
+Il m'est venu, depuis un moment, de petits scrupules sur le mariage.
+Avant que de passer plus avant, je voudrais bien agiter a fond cette
+matiere, et que l'on m'expliquat un songe que j'ai fait cette nuit, et
+qui vient tout a l'heure de me revenir dans l'esprit. Vous savez que
+les songes sont comme des miroirs, ou l'on decouvre quelquefois tout
+ce qui nous doit arriver. Il me semblait que j'etais dans un vaisseau,
+sur une mer bien agitee, et que...
+
+- Geronimo -
+
+Seigneur Sganarelle, j'ai maintenant quelque petite affaire qui
+m'empeche de vous ouir. Je n'entend rien du tout aux songes ; et quant
+au raisonnement du mariage, vous avez deux savants, deux philosophes,
+vos voisins, qui sont gens a vous debiter tout ce qu'on peut dire sur
+ce sujet. Comme ils sont de sectes differentes, vous pouvez examiner
+leurs diverses opinions la-dessus. Pour moi, je me contente de ce que
+je vous ai dit tantot, et demeure votre serviteur.
+
+- Sganarelle -
+
+Il a raison. Il faut que je consulte un peu ces gens-la sur
+l'incertitude ou je suis.
+
+
+-----------
+
+Scene VI. - Pancrace, Sganarelle.
+
+
+- Pancrace -
+
+        (se tournant du cote ou il est entre, et sans voir Sganarelle.)
+
+Allez, vous etes un impertinent, mon ami, un homme [ignare de toute
+bonne discipline], bannissable de la republique des lettres.
+
+- Sganarelle -
+
+Ah ! bon. En voici un fort a propos.
+
+- Pancrace -
+
+        (de meme, sans voir Sganarelle.)
+
+Oui, je te soutiendrai par vives raisons (3), [je te montrerai
+par Aristote, le philosophe des philosophes,] que tu es un ignorant,
+[un] ignorantissime, ignorantifiant et ignorantifie, par tous les cas
+et les modes imaginables.
+
+- Sganarelle -
+
+        (a part.)
+
+Il a pris querelle contre quelqu'un. 
+
+        (A Pancrace.)
+
+Seigneur...
+
+- Pancrace -
+
+        (de meme, sans voir Sganarelle.)
+
+Tu veux te meler de raisonner, et tu ne sais pas seulement les
+elements de la raison.
+
+- Sganarelle -
+
+        (a part.)
+
+La colere l'empeche de me voir. 
+
+        (A Pancrace.)
+
+Seigneur...
+
+- Pancrace -
+
+        (de meme, sans voir Sganarelle.)
+
+C'est une proposition condamnable dans toutes les terres de la
+philosophie.
+
+- Sganarelle -
+
+        (a part.)
+
+Il faut qu'on l'ait fort irrite.
+
+        (A Pancrace.)
+
+Je...
+
+- Pancrace -
+
+        (de meme, sans voir Sganarelle.)
+
+"Toto coelo, tota via aberras." (4)
+
+- Sganarelle -
+
+Je baise les mains a monsieur le docteur.
+
+- Pancrace -
+
+Serviteur.
+
+- Sganarelle -
+
+Peut-on...
+
+- Pancrace -
+
+        (se retournant vers l'endroit par ou il est entre.)
+
+Sais-tu bien ce que tu as fait ? un syllogisme "in balordo".
+
+- Sganarelle -
+
+Je vous...
+
+- Pancrace -
+
+        (de meme.)
+
+La majeure en est inepte, la mineure impertinente, et la conclusion
+ridicule.
+
+- Sganarelle -
+
+Je...
+
+- Pancrace -
+
+        (de meme.)
+
+Je creverais plutot que d'avouer ce que tu dis ; et je soutiendrai mon
+opinion jusqu'a la derniere goutte de mon encre.
+
+- Sganarelle -
+
+Puis-je...
+
+- Pancrace -
+
+        (de meme.)
+
+Oui, je defendrai cette proposition, "pugnis et calcibus, unguibus et
+rostro" (5).
+
+- Sganarelle -
+
+Seigneur Aristote, peut-on savoir ce qui vous met si fort en colere ?
+
+- Pancrace -
+
+Un sujet le plus juste du monde.
+
+- Sganarelle -
+
+Et quoi, encore ?
+
+- Pancrace -
+
+Un ignorant m'a voulu soutenir une proposition erronee, une proposition
+epouvantable, effroyable, execrable.
+
+- Sganarelle -
+
+Puis-je demander ce que c'est ?
+
+- Pancrace -
+
+Ah ! seigneur Sganarelle, tout est renverse aujourd'hui, et le monde
+est tombe dans une corruption generale. Une licence epouvantable regne
+partout ; et les magistrats, qui sont etablis pour maintenir l'ordre
+dans cet Etat, devraient mourir de honte, en souffrant un scandale
+aussi intolerable que celui dont je veux parler. (6)
+
+- Sganarelle -
+
+Quoi donc ?
+
+- Pancrace -
+
+N'est-ce pas une chose horrible, une chose qui crie vengeance au ciel,
+que d'endurer qu'on dise publiquement la forme d'un chapeau ?
+
+- Sganarelle -
+
+Comment ?
+
+- Pancrace -
+
+Je soutiens qu'il faut dire la figure d'un chapeau, et non pas la forme ;
+d'autant qu'il y a cette difference entre la forme et la figure, que
+la forme est la disposition exterieure des corps qui sont animes, et
+la figure la disposition exterieure des corps qui sont inanimes : et
+puisque le chapeau est un corps inanime, il faut dire la figure d'un 
+chapeau, et non pas la forme.
+
+        (Se retournant encore du cote par ou il est entre.)
+
+Oui, ignorant que vous etes, c'est comme il faut parler, et ce sont
+les termes expres d'Aristote dans le chapitre de la qualite.
+
+- Sganarelle -
+
+        (a part.)
+
+Je pensais que tout fut perdu.
+
+        (A Pancrace.)
+
+Seigneur docteur, ne songez plus a tout cela. Je ...
+
+- Pancrace -
+
+Je suis dans une colere, que je ne me sens pas.
+
+- Sganarelle -
+
+Laissez la forme et le chapeau en paix. J'ai quelque chose a vous
+communiquer. Je...
+
+- Pancrace -
+
+Impertinent fieffe (7) !
+
+- Sganarelle -
+
+De grace, remettez-vous. Je...
+
+- Pancrace -
+
+Ignorant !
+
+- Sganarelle -
+
+Eh ! mon Dieu. Je...
+
+- Pancrace -
+
+Me vouloir soutenir une proposition de la sorte !
+
+- Sganarelle -
+
+Il a tort. Je...
+
+- Pancrace -
+
+Une proposition condamnee par Aristote ?
+
+- Sganarelle -
+
+Cela est vrai. Je...
+
+- Pancrace -
+
+En termes expres !
+
+- Sganarelle -
+
+Vous avez raison.
+
+        (Se tournant du cote par ou Pancrace est entre.)
+
+Oui, vous etes un sot et un impudent, de vouloir disputer contre
+un docteur qui sait lire et ecrire. 
+
+        (A Pancrace.)
+
+Voila qui est fait : je vous prie de m'ecouter. Je viens vous
+consulter sur une affaire qui m'embarasse. J'ai dessein de prendre une
+femme, pour me tenir compagnie dans mon menage. La personne est belle
+et bien faite ; elle me plait beaucoup, et est ravie de m'epouser :
+son pere me l'a accordee. Mais je crains un peu ce que vous savez, la
+disgrace dans on ne plaint personne ; et je voudrais bien vous prier,
+comme philosophe, de me dire votre sentiment. Eh ! quel est votre avis
+la-dessus ?
+
+- Pancrace -
+
+Plutot que d'accorder qu'il faille dire la forme d'un chapeau,
+j'accorderais que "datur in rerum natura" (8), et que je ne suis qu'un
+bete.
+
+- Sganarelle -
+
+        (a part.)
+
+La peste soit de l'homme !
+
+        (A Pancrace.)
+
+Eh ! monsieur le docteur, ecoutez un peu les gens. On vous parle une
+heure durant, et vous ne repondez point a ce qu'on vous dit.
+
+- Pancrace -
+
+Je vous demande pardon. Une juste colere m'occupe l'esprit.
+
+- Sganarelle -
+
+Eh ! laissez tout cela, et prenez la peine de m'ecouter.
+
+- Pancrace -
+
+Soit. Que voulez-vous me dire ?
+
+- Sganarelle -
+
+Je veux vous parler de quelque chose.
+
+- Pancrace -
+
+Et de quelle langue voulez-vous vous servir avec moi ?
+
+- Sganarelle -
+
+De quelle langue ?
+
+- Pancrace -
+
+Oui.
+
+- Sganarelle -
+
+Parbleu ! de la langue que j'ai dans la bouche. Je crois que je n'irai
+pas emprunter celle de mon voisin.
+
+- Pancrace -
+
+Je vous dis, de quel idiome, de quel langage ?
+
+- Sganarelle -
+
+Ah ! c'est une autre affaire.
+
+- Pancrace -
+
+Voulez-vous me parler italien ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Espagnol ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Allemand ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Anglais ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Latin ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Grec ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Hebreu ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Syriaque ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Turc ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Arabe ?
+
+- Sganarelle -
+
+Non, non ; francais [, francais, francais].
+
+- Pancrace -
+
+Ah ! francais.
+
+- Sganarelle -
+
+Fort bien.
+
+- Pancrace -
+
+Passez donc de l'autre cote ; car cette oreille-ci est destinee
+pour les langues scientifiques [et etrangeres], et l'autre est
+pour [la vulgaire et] la maternelle.
+
+- Sganarelle -
+
+        (a part.)
+
+Il faut bien des ceremonies avec ces sortes de gens-ci !
+
+- Pancrace -
+
+Que voulez-vous ?
+
+- Sganarelle -
+
+Vous consulter une une petite difficulte.
+
+- Pancrace -
+
+[Ah ! ah !] sur une difficulte de philosophie, sans doute ?
+
+- Sganarelle -
+
+Pardonnez-moi. Je...
+
+- Pancrace -
+
+Vous voulez peut-etre savoir si la substance et l'accident 
+sont termes synonymes ou equivoques a l'egard de l'etre ?
+
+- Sganarelle -
+
+Point du tout. Je...
+
+- Pancrace -
+
+Si la logique est un art ou une science ?
+
+- Sganarelle -
+
+Ce n'est pas cela. Je...
+
+- Pancrace -
+
+Si elle a pour objet les trois operations de l'esprit, ou la
+troisieme seulement (9) ? 
+
+- Sganarelle -
+
+Non. Je...
+
+- Pancrace -
+
+S'il y a dix categories, ou s'il n'y en a qu'une (10) ?
+
+- Sganarelle -
+
+Point. Je...
+
+- Pancrace -
+
+Si la conclusion est de l'essence du syllogisme ?
+
+- Sganarelle -
+
+Nenni. Je...
+
+- Pancrace -
+
+Si l'essence du bien est mise dans l'appetibilite, ou dans la
+convenance (11) ?
+
+- Sganarelle -
+
+Non. Je...
+
+- Pancrace -
+
+Si le bien se reciproque avec la fin ?
+
+- Sganarelle -
+
+Eh ! non. Je...
+
+- Pancrace -
+
+Si la fin nous peut emouvoir par son etre reel, ou par son etre
+intentionnel (12) ?
+
+- Sganarelle -
+
+Non, non, non, non, non, de par tous les diables, non.
+
+- Pancrace -
+
+Expliquez donc votre pensee, car je ne puis pas la deviner.
+
+- Sganarelle -
+
+Je vous la veux expliquer aussi ; mais il faut m'ecouter.
+
+        (Pendant que Sganarelle dit :)
+
+L'affaire que j'ai a vous dire, c'est que j'ai envie de me marier
+avec une fille qui est jeune et belle. Je l'aime fort, et l'ai 
+demandee a son pere ; mais comme j'apprehende...
+
+- Pancrace -
+
+        (dit en meme temps, sans ecouter Sganarelle :)
+
+La parole a ete donnee a l'homme pour expliquer sa pensee ; et tout
+ainsi que les pensees sont les portraits des choses, de meme nos
+paroles sont-elles les portraits de nos pensees.
+
+        (Sganarelle, impatiente, ferme la bouche du docteur avec sa main
+        a plusieurs reprises, et le docteur continue de parler d'abord
+        que Sganarelle ote sa main.)
+
+Mais ces portraits different des autres portraits en ce que les autres
+portraits sont distingues partout de leurs originaux, et que la parole
+enferme en soi son original, puisqu'elle n'est autre chose que la
+pensee expliquee par un signe exterieur ; d'ou vient que ceux qui
+pensent bien sont aussi ceux qui parlent le mieux. Expliquez-moi donc
+votre pensee par la parole, qui est le plus intelligible de tous les
+signes.
+
+- Sganarelle -
+
+        (pousse le docteur dans sa maison, et tire la porte pour 
+        l'empecher de sortir.)
+
+[Peste de l'homme !
+
+- Pancrace -
+
+        (au dedans de sa maison.)
+
+Oui, la parole est "animi index et speculum" (13). C'est le truchement
+du coeur, c'est l'image de l'ame.
+
+        (Il monte a la fenetre et continue.)
+
+C'est un miroir qui nous presente naivement les secrets les plus
+arcanes (14) de nos individus ; et puisque vous avez la faculte de
+ratiociner et de parler tout ensemble, a quoi tient-il que vous ne
+vous serviez de la parole pour me faire entendre votre pensee ?
+
+- Sganarelle -
+
+C'est ce que je veux faire ; mais vous ne voulez pas m'ecouter.
+
+- Pancrace -
+
+Je vous ecoute, parlez.
+
+- Sganarelle -
+
+Je dis donc, monsieur le docteur, que...
+
+- Pancrace -
+
+Mais surtout soyez bref.
+
+- Sganarelle -
+
+Je le serai.
+
+- Pancrace -
+
+Evitez la prolixite.
+
+- Sganarelle -
+
+Eh ! monsi...
+
+- Pancrace -
+
+Tranchez moi votre discours d'un apophtegme a la laconienne.
+
+- Sganarelle -
+
+Je vous...
+
+- Pancrace -
+
+Point d'ambages (15), de circonlution.
+
+        (Sganarelle, le depit de ne pouvoir parler, ramasse des pierres
+	pour en casser la tete du docteur.)
+
+He quoi ! vous vous emportez au lieu de vous expliquer ? Allez, vous
+etes plus impertinent que celui qui m'a voulu soutenir qu'il faut dire
+la forme d'un chapeau ; et je vous prouverai, en toute rencontre, par
+raisons demonstratives et convaincantes, et par arguments "in
+Barbara", que vous n'etes et ne serez jamais qu'une pecore, et que je
+suis et serai toujours, "in utroque jure" (16), le docteur Pancrace.
+
+- Sganarelle -
+
+Quel diable de babillard !
+
+- Pancrace -
+
+        (en rentrant sur le theatre.)
+
+Homme de lettres, homme d'erudition.
+
+- Sganarelle -
+
+Encore ?
+
+- Pancrace -
+
+Homme de suffisance, homme de capacite.
+
+        (S'en allant.)
+
+Homme consomme dans toutes les sciences, naturelles, morales et
+politiques.
+
+        (Revenant.)
+
+Homme savant, savantissime, "per omnes modos et casus" (17).
+
+        (S'en allant.)
+
+Homme qui possede "superlative", fable, mythologie et histoire,
+
+        (Revenant.)
+
+grammaire, poesie, rhetorique, dialectique et sophistique,
+
+        (S'en allant.)
+
+mathematiques, arithmetique, optique, onirocritique (18), physique et
+metaphysique,
+
+        (Revenant.)
+
+cosmometrie (19), geometrie, architecture, speculoire et speculatoire (20),
+
+        (S'en allant.)
+
+medecine, astronomie, astrologie, physionomie, metoposcopie (21),
+chiromancie, geomancie (22), etc.]
+
+
+-----------
+
+Scene VII. - Sganarelle.
+
+
+- Sganarelle -
+
+Au diable les savants qui ne veulent point ecouter les gens ! On me
+l'avait dit, que son maitre Aristote n'etait rien qu'un bavard. Il
+faut que j'aille trouver l'autre ; peut-etre qu'il sera plus pose et
+plus raisonnable. Hola !
+
+
+-----------
+
+Scene VIII. - Marphurius, Sganarelle.
+
+
+- Marphurius -
+
+Que voulez-vous de moi, Seigneur Sganarelle ?
+
+- Sganarelle -
+
+Seigneur docteur, j'aurais besoin de votre conseil sur une petite
+affaire dont il s'agit, et je suis venu ici pour cela.
+
+        (a part.)
+
+Ah ! voila qui va bien. Il ecoute le monde, celui-ci.
+
+- Marphurius -
+
+Seigneur Sganarelle, changez, s'il vous plait, cette facon de
+parler. Notre philosophie ordonne de ne point enoncer de proposition
+decisive, de parler de tout avec incertitude, de suspendre toujours
+son jugement ; et, par cette raison, vous ne devez pas dire, je suis
+venu, mais, il me semble que je suis venu.
+
+- Sganarelle -
+
+Il me semble ?
+
+- Marphurius -
+
+Oui.
+
+- Sganarelle -
+
+Parbleu ! il faut bien qu'il me le semble, puisque cela est.
+
+- Marphurius -
+
+Ce n'est pas une consequence, et il peut vous le sembler, sans que la
+chose soit veritable.
+
+- Sganarelle -
+
+Comment ! il n'est pas vrai que je suis venu ?
+
+- Marphurius -
+
+Cela est incertain, et nous devons douter de tout.
+
+- Sganarelle -
+
+Quoi ! je ne suis pas ici, et vous ne me parlez pas ?
+
+- Marphurius -
+
+Il m'apparait que vous etes la, et il me semble que je vous parle ;
+mais il n'est pas assure que cela soit.
+
+- Sganarelle -
+
+He ! que diable ! vous vous moquez. Me voila, et vous voila bien
+nettement, et il n'y a point de "me semble" a tout cela. Laissons ces
+subtilites, je vous prie, et parlons de mon affaire. Je viens vous
+dire que j'ai envie de me marier.
+
+- Marphurius -
+
+Je n'en sais rien.
+
+- Sganarelle -
+
+Je vous le dis.
+
+- Marphurius -
+
+Il se peut faire.
+
+- Sganarelle -
+
+La fille que je veux prendre est fort jeune et fort jolie.
+
+- Marphurius -
+
+Il n'est pas impossible.
+
+- Sganarelle -
+
+Ferai-je bien ou mal de l'epouser ?
+
+- Marphurius -
+
+L'un ou l'autre.
+
+- Sganarelle -
+
+        (a part.)
+
+Ah ! ah ! voici une autre musique.
+
+        (A Marphurius.)
+
+Je vous demande si je ferai bien d'epouser la fille dont je vous
+parle.
+
+- Marphurius -
+
+Selon la rencontre.
+
+- Sganarelle -
+
+Ferai-je mal ?
+
+- Marphurius -
+
+Par aventure.
+
+- Sganarelle -
+
+De grace, repondez-moi comme il faut.
+
+- Marphurius -
+
+C'est mon dessein.
+
+- Sganarelle -
+
+J'ai une grande inclination pour la fille.
+
+- Marphurius -
+
+Cela peut etre.
+
+- Sganarelle -
+
+Le pere me l'a accordee.
+
+- Marphurius -
+
+Il se pourrait.
+
+- Sganarelle -
+
+Mais, en l'epousant, je crains d'etre cocu.
+
+- Marphurius -
+
+La chose est faisable.
+
+- Sganarelle -
+
+Qu'en pensez-vous ?
+
+- Marphurius -
+
+Il n'y a pas d'impossibilite.
+
+- Sganarelle -
+
+Mais que feriez-vous, si vous etiez a ma place ?
+
+- Marphurius -
+
+Je ne sais.
+
+- Sganarelle -
+
+Que me conseillez-vous de faire ?
+
+- Marphurius -
+
+Ce qu'il vous plaira.
+
+- Sganarelle -
+
+J'enrage !
+
+- Marphurius -
+
+Je m'en lave les mains.
+
+- Sganarelle -
+
+Au diable soit le vieux reveur !
+
+- Marphurius -
+
+Il en sera ce qui pourra.
+
+- Sganarelle -
+
+        (a part.)
+
+La peste du bourreau ! Je te ferai changer de note, chien de
+philosophe enrage.
+
+        (Il donne des coups de baton a Marphurius.)
+
+- Marphurius -
+
+Ah ! ah ! ah !
+
+- Sganarelle -
+
+Te voila paye de ton galimatias, et me voila content.
+
+- Marphurius -
+
+Comment ! Quelle insolence ! M'outrager de la sorte, avoir eu l'audace
+de battre un philosophe comme moi !
+
+- Sganarelle -
+
+Corrigez, s'il vous plait, cette maniere de parler. Il faut douter de
+toutes choses ; et vous ne devez pas dire que je vous ai battu, mais
+qu'il vous semble que je vous ai battu.
+
+- Marphurius -
+
+Ah ! je m'en vais faire ma plainte au commissariat du quartier, des
+coups que j'ai recus.
+
+- Sganarelle -
+
+Je m'en lave les mains.
+
+- Marphurius -
+
+j'en ai les marques sur ma personne.
+
+- Sganarelle -
+
+Il se peut faire.
+
+- Marphurius -
+
+C'est toi qui m'as traite ainsi.
+
+- Sganarelle -
+
+Il n'y a pas d'impossibilite.
+
+- Marphurius -
+
+J'aurai un decret contre toi.
+
+- Sganarelle -
+
+Je n'en sais rien.
+
+- Marphurius -
+
+Et tu seras condamne en justice.
+
+- Sganarelle -
+
+Il en sera ce qui pourra.
+
+- Marphurius -
+
+Laisse-moi faire.
+
+
+-----------
+
+Scene IX. - Sganarelle.
+
+
+- Sganarelle -
+
+Comment ! on ne saurait tirer une parole positive de ce chien
+d'homme-la, et l'on est aussi savant a la fin qu'au commencement. Que
+dois-je faire, dans l'incertitude des suites de mon mariage ? Jamais
+homme ne fut plus embarrasse que je suis. Ah ! voici des Egyptiennes ;
+il faut que je me fasse dire par elles ma bonne aventure.
+
+
+-----------
+
+Scene X. - Deux Egyptiennes, Sganarelle.
+
+
+        (Les deux Egyptiennes avec leurs tambours de basque entrent 
+	 en chantant et en dansant.)
+
+- Sganarelle -
+
+Elles sont gaillardes. Ecoutez, vous autres, y a-t-il moyen de me dire
+ma bonne fortune ?
+
+- Premiere Egyptienne -
+
+Oui, mon bon monsieur ; nous voici deux qui te la dirons.
+
+- Deuxieme Egyptienne -
+
+Tu n'as seulement qu'a nous donner ta main, avec la croix dedans (23),
+et nous te dirons quelque chose pour ton bon profit.
+
+- Sganarelle -
+
+Tenez, les voila toutes deux avec ce que vous demandez.
+
+- Premiere Egyptienne -
+
+Tu as une bonne physionomie, mon bon monsieur, une bonne physionomie.
+
+- Deuxieme Egyptienne -
+
+Oui, une bonne physionomie ; physionomie d'un homme qui sera un jour
+quelque chose.
+
+- Premiere Egyptienne -
+
+Tu seras marie avant qu'il soit peu, mon bon monsieur, tu seras marie
+avant qu'il soit peu.
+
+- Deuxieme Egyptienne -
+
+Tu epouseras une femme gentille, une femme gentille.
+
+- Premiere Egyptienne -
+
+Oui, une femme qui sera cherie et aimee de tout le monde.
+
+- Deuxieme Egyptienne -
+
+Une femme qui te fera beaucoup d'amis, mon bon monsieur, qui te fera
+beaucoup d'amis.
+
+- Premiere Egyptienne -
+
+Une femme qui fera venir l'abondance chez toi.
+
+- Deuxieme Egyptienne -
+
+Une femme qui te donnera une grande reputation.
+
+- Premiere Egyptienne -
+
+Tu seras considere par elle, mon bon monsieur, tu seras considere par
+elle.
+
+- Sganarelle -
+
+Voila qui est bien. Mais dites-moi un peu, suis-je menace d'etre cocu.
+
+- Deuxieme Egyptienne -
+
+Cocu ?
+
+- Sganarelle -
+
+Oui.
+
+- Premiere Egyptienne -
+
+Cocu ?
+
+- Sganarelle -
+
+Oui, si je suis menace d'etre cocu ?
+
+        (Les deux Egyptiennes dansent et chantent.)
+
+Que diable, ce n'est pas la me repondre ! Venez ca. Je vous demande a
+toutes les deux si je serai cocu ?
+
+- Deuxieme Egyptienne -
+
+Cocu ? vous ?
+
+- Sganarelle -
+
+Oui, si je serai cocu ?
+
+- Premiere Egyptienne -
+
+Vous ? cocu ?
+
+- Sganarelle -
+
+Oui, si je le serai oui ou non ?
+
+        (Les deux Egyptiennes sortent en chantant et en dansant.)
+
+
+-----------
+
+Scene XI. - Sganarelle.
+
+
+- Sganarelle -
+
+Peste soit des carognes qui me laissent dans l'inquietude ! Il faut
+absolument que je sache la destinee de mon mariage ; et, pour cela, je
+veux aller trouver ce grand magicien dont tout le monde parle tant, et
+qui, par son art admirable, fait voir tout ce que l'on souhaite. Ma
+foi, je crois que je n'ai que faire d'aller au magicien, et voici qui
+me montre tout ce que je puis demander.
+
+
+-----------
+
+Scene XII. - Dorimene, Lycaste, Sganarelle, retire dans un coin du theatre
+	     sans etre vu.
+
+
+- Lycaste -
+
+Quoi ! belle Dorimene, c'est sans raillerie que vous parlez ?
+
+- Dorimene -
+
+Sans raillerie.
+
+- Lycaste -
+
+Vous vous mariez tout de bon ?
+
+- Dorimene -
+
+Tout de bon.
+
+- Lycaste -
+
+Et vos noces se feront des ce soir ?
+
+- Dorimene -
+
+Des ce soir.
+
+- Lycaste -
+
+Et vous pouvez, cruelle que vous etes, oublier de la sorte l'amour que
+j'ai pour vous, et les obligeantes paroles que vous m'aviez donnees ?
+
+- Dorimene -
+
+Moi ? point du tout. Je vous considere toujours de meme, et ce mariage
+ne doit point vous inquieter ; c'est un homme que je n'epouse point
+par amour, et sa seule richesse me fait resoudre a l'accepter. Je n'ai
+point de bien, vous n'en avez point aussi, et vous savez que sans cela
+on passe mal le temps au monde, et qu'a quelque prix que ce soit il
+faut tacher d'en avoir. J'ai embrasse cette occasion-ci de me mettre a
+mon aise, et je l'ai fait sur l'esperance de me voir bientot delivree
+du barbon que je prends. C'est un homme qui mourra avant qu'il soit
+peu, et qui n'a tout au plus que six mois dans le ventre. Je vous le
+garantis defunt dans le temps que je dis ; et je n'aurai pas
+longuement a demander pour moi l'heureux etat de veuve.
+
+        (A Sganarelle, qu'elle apercoit.)
+
+Ah ! nous parlions de vous, et nous en disions tout le bien qu'on en
+saurait dire.
+
+- Lycaste -
+
+Est-ce la monsieur ?...
+
+- Dorimene -
+
+Oui, c'est monsieur qui me prend pour femme.
+
+- Lycaste -
+
+Agreez, Monsieur, que je vous felicite de votre mariage, et vous
+presente en meme temps mes tres humbles services : je vous assure que
+vous epousez la une tres honnete personne. Et vous, Mademoiselle, je
+me rejouis avec vous aussi de l'heureux choix que vous avez fait :
+vous ne pouviez pas mieux trouver, et Monsieur a toute la mine d'etre
+un fort bon mari. Oui, Monsieur, je veux faire amitie avec vous, et
+lier ensemble un petit commerce de visites et de divertissements.
+
+- Dorimene -
+
+C'est trop d'honneur que vous nous faites a tous deux. Mais allons, le
+temps me presse, et nous aurons tout le loisir de nous entretenir
+ensemble.
+
+
+-----------
+
+Scene XIII. - Sganarelle.
+
+
+- Sganarelle -
+
+Me voila tout a fait degoute de mon mariage ; et je crois que je ne
+ferai pas mal de m'aller degager de ma parole. Il m'en a coute quelque
+argent ; mais il vaut mieux encore perdre cela que de s'exposer a
+quelque chose de pis. Tachons adroitement de nous debarrasser de cette
+affaire. Hola !
+
+        (Il frappe a la porte de la maison d'Alcantor.)
+
+
+-----------
+
+Scene XIV. - Alcantor, Sganarelle.
+
+
+- Alcantor -
+
+Ah ! mon gendre, soyez le bienvenu !
+
+- Sganarelle -
+
+Monsieur, votre serviteur.
+
+- Alcantor -
+
+Vous venez pour conclure le mariage ?
+
+- Sganarelle -
+
+Excusez-moi.
+
+- Alcantor -
+
+Je vous promets que j'en ai autant d'impatience que vous.
+
+- Sganarelle -
+
+Je viens ici pour un autre sujet.
+
+- Alcantor -
+
+J'ai donne ordre a toutes les choses necessaires pour cette fete.
+
+- Sganarelle -
+
+Il n'est pas question de cela.
+
+- Alcantor -
+
+Les violons sont retenus, le festin est commande, et ma fille est
+paree pour vous recevoir.
+
+- Sganarelle -
+
+C'est n'est pas ce qui m'amene.
+
+- Alcantor -
+
+Enfin, vous allez etre satisfait ; et et rien ne peut retarder votre
+contentement.
+
+- Sganarelle -
+
+Mon Dieu ! c'est autre chose.
+
+- Alcantor -
+
+Allons, entrez donc, mon gendre.
+
+- Sganarelle -
+
+J'ai un petit mot a vous dire.
+
+- Alcantor -
+
+Ah ! mon Dieu, ne faisons point de ceremonie ! Entrez vite, s'il vous
+plait.
+
+- Sganarelle -
+
+Non, vous dis-je. Je veux vous parler auparavant.
+
+- Alcantor -
+
+Vous voulez me dire quelque chose ?
+
+- Sganarelle -
+
+Oui.
+
+- Alcantor -
+
+Et quoi ?
+
+- Sganarelle -
+
+Seigneur Alcantor, j'ai demande votre fille en mariage, il est vrai,
+et vous me l'avez accordee ; mais je me trouve un peu avance en age
+pour elle, et je considere que je ne suis point du tout son fait.
+
+- Alcantor -
+
+Pardonnez-moi, ma fille vous trouve bien comme vous etes ; et je suis
+sur qu'elle vivra fort contente avec vous.
+
+- Sganarelle -
+
+Point. J'ai des bizarreries epouvantables, et elle aurait trop a
+souffrir de ma mauvaise humeur.
+
+- Alcantor -
+
+Ma fille a de la complaisance, et vous verrez qu'elle s'accommodera
+entierement a vous.
+
+- Sganarelle -
+
+J'ai quelques infirmites sur mon corps qui pourraient la degouter.
+
+- Alcantor -
+
+Cela n'est rien. Une honnete femme ne se degoute jamais de son mari.
+
+- Sganarelle -
+
+Enfin, voulez-vous que je vous dise ? Je ne vous conseille pas de me
+la donner.
+
+- Alcantor -
+
+Vous moquez-vous ? J'aimerai mieux mourir que d'avoir manque a ma
+parole.
+
+- Sganarelle -
+
+Mon Dieu, je vous en dispense, et je...
+
+- Alcantor -
+
+Point du tout. je vous l'ai promise, et vous l'aurez, en depit de tous
+ceux qui y pretendent.
+
+- Sganarelle -
+
+        (a part.)
+
+Que diable !
+
+- Alcantor -
+
+Voyez-vous ? J'ai une estime et une amitie pour vous toute
+particuliere, et je refuserais ma fille a un prince pour vous la
+donner.
+
+- Sganarelle -
+
+Seigneur Alcantor, je vous suis oblige de l'honneur que vous me faites ; 
+mais je vous declare que je ne me veux point marier.
+
+- Alcantor -
+
+Qui, vous ?
+
+- Sganarelle -
+
+Oui, moi.
+
+- Alcantor -
+
+Et la raison ?
+
+- Sganarelle -
+
+La raison ? C'est que je ne me sens point propre pour le mariage, et
+que je veux imiter mon pere, et tous ceux de ma race, qui ne se sont
+jamais voulu marier.
+
+- Alcantor -
+
+Ecoutez. Les volontes sont libres ; et je suis homme a ne contraindre
+jamais personne. Vous vous etes engage avec moi pour epouser ma fille,
+et tout est prepare pour cela ; mais puisque vous voulez retirer votre
+parole, je vais voir ce qu'il y a a faire ; et vous aurez bientot de
+mes nouvelles.
+
+
+-----------
+
+Scene XV. - Sganarelle.
+
+
+- Sganarelle -
+
+Encore est-il plus raisonnable que je ne pensais, et je croyais avoir
+bien plus de peine a m'en degager. Ma foi, quand j'y songe, j'ai fait
+fort sagement de me tirer de cette affaire ; et j'allais faire un pas
+dont je me serais peut-etre longtemps repenti. Mais voici le fils qui
+vient me rendre reponse.
+
+
+-----------
+
+Scene XVI. - Alcidas, Sganarelle.
+
+
+- Alcidas -
+
+        (parlant d'un ton doucereux.)
+
+Monsieur, je suis votre serviteur tres humble.
+
+- Sganarelle -
+
+Monsieur, je suis le votre de tout mon coeur.
+
+- Alcidas -
+
+        (toujours avec le meme ton.)
+
+Mon pere m'a dit, Monsieur, que vous vous etiez venu degager de la
+parole que vous aviez donnee.
+
+- Sganarelle -
+
+Oui, Monsieur, c'est avec regret ; mais...
+
+- Alcidas -
+
+Oh ! Monsieur, il n'y a pas de mal a cela.
+
+- Sganarelle -
+
+J'en suis fache, je vous assure ; et je souhaiterais...
+
+- Alcidas -
+
+Cela n'est rien, vous dis-je. 
+
+        (Alcidas presente a Sganarelle deux epees.)
+
+Monsieur, prenez la peine de choisir, de ces deux epees, laquelle vous
+voulez.
+
+- Sganarelle -
+
+De ces deux epees ?
+
+- Alcidas -
+
+Oui, s'il vous plait.
+
+- Sganarelle -
+
+A quoi bon ?
+
+- Alcidas -
+
+Monsieur, comme vous refusez d'epouser ma soeur apres la parole
+donnee, je crois que vous ne trouverez pas mauvais le petit compliment
+que je viens vous faire.
+
+- Sganarelle -
+
+Comment ?
+
+- Alcidas -
+
+D'autres gens feraient du bruit, et s'emporteraient contre vous ; mais
+nous sommes personnes a traiter les choses dans la douceur ; et je
+viens vous dire civilement qu'il faut, si vous le trouvez bon, que
+nous nous coupions la gorge ensemble.
+
+- Sganarelle -
+
+Voila un compliment fort mal tourne.
+
+- Alcidas -
+
+Allons, Monsieur, choisissez, je vous prie.
+
+- Sganarelle -
+
+Je suis votre valet, je n'ai point de gorge a me couper.
+
+        (a part.)
+
+La vilaine facon de parler que voila !
+
+- Alcidas -
+
+Monsieur, il faut que cela soit, s'il vous plait.
+
+- Sganarelle -
+
+Eh ! Monsieur, rengainez ce compliment, je vous prie.
+
+- Alcidas -
+
+Depechons vite, Monsieur. J'ai une petite affaire qui m'attend.
+
+- Sganarelle -
+
+Je ne veux point de cela, vous dis-je.
+
+- Alcidas -
+
+Vous ne voulez pas vous battre ?
+
+- Sganarelle -
+
+Nenni, ma foi.
+
+- Alcidas -
+
+Tout de bon ?
+
+- Sganarelle -
+
+Tout de bon.
+
+- Alcidas -
+
+        (apres lui avoir donne des coups de baton.)
+
+Au moins, Monsieur, vous n'avez pas lieu de vous plaindre ; vous voyez
+que je fais les choses dans l'ordre. Vous nous manquez de parole, je
+me veux battre contre vous ; vous refusez de vous battre, je vous
+donne des coups de baton : tout cela est dans les formes ; et vous
+etes trop honnete homme pour ne pas approuver mon procede.
+
+- Sganarelle -
+
+        (a part.)
+
+Quel diable d'homme est-ce ci ?
+
+- Alcidas -
+
+        (lui presente encore deux epees.)
+
+Allons, Monsieur, faites les choses galamment, et sans vous faire
+tirer l'oreille.
+
+- Sganarelle -
+
+Encore ?
+
+- Alcidas -
+
+Monsieur, je ne contrains personne ; mais il faut que vous vous
+battiez, ou que vous epousiez ma soeur.
+
+- Sganarelle -
+
+Monsieur, je ne puis faire ni l'un ni l'autre, je vous assure.
+
+- Alcidas -
+
+Assurement ?
+
+- Sganarelle -
+
+Assurement.
+
+- Alcidas -
+
+Avec votre permission, donc...
+
+        (Alcidas lui donne encore des coups de baton.)
+
+- Sganarelle -
+
+Ah ! ah ! ah !
+
+- Alcidas -
+
+Monsieur, j'ai tous les regrets du monde d'etre oblige d'en user ainsi
+avec vous ; mais je ne cesserai point, s'il vous plait, que vous
+n'ayez promis de vous battre, ou d'epouser ma soeur.
+
+        (Alcidas leve le baton.)
+
+- Sganarelle -
+
+Eh bien, j'epouserai, j'epouserai.
+
+- Alcidas -
+
+Ah ! Monsieur, je suis ravi que vous vous mettiez a la raison, et que
+les choses se passent doucement. Car enfin vous etes l'homme du monde
+que j'estime le plus, je vous jure ; et j'aurais ete au desespoir que
+vous m'eussiez contraint a vous maltraiter. Je vais appeler mon pere,
+pour lui dire que tout est d'accord.
+
+        (Il va frapper a la porte d'Alcantor.)
+
+
+-----------
+
+Scene XVII. - Alcantor, Dorimene, Alcidas, Sganarelle.
+
+
+- Alcidas -
+
+Mon pere, voila Monsieur qui est tout a fait raisonnable. Il a voulu
+faire les choses de bonne grace, et vous pouvez lui donner ma soeur.
+
+- Alcantor -
+
+Monsieur, voila sa main ; vous n'avez qu'a donner la votre. Loue soit
+le ciel ! m'en voila decharge, et c'est vous desormais que regarde le
+soin de sa conduite. Allons nous rejouir et celebrer cet heureux
+mariage.
+
+
+
+FIN DU MARIAGE FORCE.
+
+-------------------------------------------------------------------------
+
+Notes [from 1890 edition]
+
+-----------
+(1) "Mettez donc dessus", pour "mettez donc votre chapeau". Locution
+elliptique qui n'est plus d'usage, et dont nous avons deja vu un
+exemple dans l'"Ecole des femmes", acte III, scene IV.
+----------- 
+(2) Donner un "cadeau" signifiait autrefois "donner un repas". Le
+P. Bouhours fait venir ce mot de "cadendo", parce que, dit-il, les
+buveurs chancellent et tombent et que c'est ordinairement comme
+finissent les "cadeaux".
+----------- 
+(3) Tous les passages places entre deux crochets ne se trouvent que
+dans l'edition de 1682.
+-----------
+(4) Pancrace rassemble ici en une seule phrase deux expressions
+proverbiales qu'Erasme a recueillies dans ses "Adages", l'une de
+Terence, "tota errare via" ; l'autre de Macrobe, "toto coelo errare",
+et qui toutes deux veulent dire, donner dans la plus grande des
+erreurs, etre a mille lieues de la verite.  Rabelais a traduit
+litteralement "toto coelo errare" : "Qui aultrement la nomme erre par
+tout le ciel". (A.)
+-----------
+(5) Des poings, des pieds, des ongles et du bec.
+-----------
+(6) Cet appel a la severite des magistrats fait allusion aux efforts
+serieux de l'Universite pour obtenir la confirmation de l'arret de 1624,
+lequel condamnait au banissement les nommes Villon, Bitault et de Claves,
+pour avoir pense autrement qu'Aristote.
+-----------
+(7) "Fieffe", vient de "Fief". Il se dit de ceux qui ont quelques vices.
+Dans ce sens, il signifie "acheve", comme qui dirait un homme a qui
+il ne manque rien d'un tel vice ; de la meme facon qu'il ne manque rien
+pour posseder un fief a celui qui l'a recu de son seigneur. (Caseneuve.)
+-- Les precieuses prenaient ce mot en bonne part, et disaient d'un amant
+bien accueilli des dames, que c'etait "un galant fieffe".
+-----------
+(8) Le vide existe dans le nature.
+-----------
+(9) C'est-a-dire, si elle a pour objet la "perception", le "jugement",
+et le "raisonnement", ou ce dernier seulement.
+-----------
+(10) Les categories etaient un moyen de classer toutes les pensees
+de l'entendement humain. Aristote en comptait dix.
+-----------
+(11) Il s'agit de savoir "si l'essence d'un bien se trouve dans ce
+qu'on desire ou dans ce qui convient."
+-----------
+(12) Cette question est aussi inintelligible que les precedentes sont
+ridicules. En recueillant toutes ces subtilites scolastiques, Moliere
+voulait se moquer du faux savoir, et devenait le vengeur du bon gout,
+apres l'avoir ete du bon sens.
+-----------
+(13) "L'indice et le miroir de l'ame". C'est ce que Pancrace traduit
+encore par les mots de "truchement" et d'"image". (A.)
+-----------
+(14) "Arcanes", mot latin francise ; il signifie secret mysterieux.
+Plus bas, "ratiociner", pour "raisonner", terme de logique qui n'a
+jamais ete en usage que dans les ecoles.
+-----------
+(15) Point d"ambages", c'est-a-dire, point d'embarras de paroles.
+-----------
+(16) La jurisprudence se composait de deux corps de droit, l'ecclesiastique
+et le civil. "In utroque jure" veut dire, dans l'un et l'autre droit. Un
+docteur "In utroque jure" etait donc celui qui professait le droit civil
+et le droit canon.
+-----------
+(17) Par tous les cas et les modes imaginables.
+-----------
+(18) Art d'interpreter les songes.
+-----------
+(19) Mesure de la terre.
+-----------
+(20) "Speculoire" et "speculatoire". -- La "speculatoire" est l'art
+d'interpreter les eclairs, le tonnerre, les cometes, et autres
+meteores ou phenomenes semblables. La "speculoire" est la partie de
+l'art divinatoire qui consiste a faire voir dans un miroir les
+personnes ou les choses que l'on desire connaitre. (A.)
+-----------
+(21) Art de conjecturer le sort d'une personne par l'inspection des
+traits de son visage. Cardan a fait un volume in-folio fort curieux
+sur cette science chimerique.
+-----------
+(22) "Chiromancie", divination par l'inspection des lignes de la main.
+-- "Geomancie", art de deviner, soit par des lignes qu'on trace au
+hasard sur la terre, soit par les fentes naturelles qu'on remarque a
+sa surface. (A.)
+-----------
+(23) C'est a dire une piece "a la croix", par allusion a la croix
+representee sur certaine piece de monnaie.
+-----------
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, LE MARIAGE FORCE ***
+
+This file should be named 7marf10.txt or 7marf10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7marf11.txt
+VERSIONS based on separate sources get new LETTER, 7marf10a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+
